@@ -1,0 +1,12 @@
+{
+	"name": "JioFi Battery Alert",
+	"version": "1.0",
+	"description": "This extension alerts when battery of JioFi is down",
+	"permissions": [ "alarms", "http://jiofi.local.html/", "notifications", "storage" ],
+	"background": {
+		"scripts": ["eventPage.js"],
+		"persistent": false
+	},
+	"icons": { "16": "icon16.ico", "48": "icon48.ico", "128": "icon128.ico" },
+	"manifest_version": 2
+}
