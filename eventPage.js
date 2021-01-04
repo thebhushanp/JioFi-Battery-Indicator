@@ -86,18 +86,6 @@ function makeid(length) {
     return result;
 }
 
-function fetchDataFromLocalStorage(channel) {
-    //var val = null;
-    //console.log(channel);
-    //chrome.storage.local.get(channel, function(result) {
-    //	if(result.channel) {
-    //		val = result.channel;
-    //	}
-    //});
-    //return val;
-    return lastNotificationValue;
-}
-
 function setDataToLocalStorage(obj) {
     chrome.storage.local.set(obj, function() {
         if (chrome.extension.lastError) {
