@@ -1,6 +1,11 @@
 # JioFi-Battery-Indicator
 Low battery indicator for JioFi JMR450
-### How to install
+## Features
+ - Shows notification when battery level reaches to 30%, 20%, 10% & 5%.
+ - Shows notification when battery level reaches to 100%.
+ - Shows notification when network coverage is poor(coming soon)
+ - Shows notification when new devices connects or disconnects(coming soon)
+## How to install
 - Download zip of this code and extract it in any directory
 - Open the Extension Management page by navigating to chrome://extensions.
   - The Extension Management page can also be opened by clicking on the Chrome menu, hovering over More Tools then selecting Extensions.
