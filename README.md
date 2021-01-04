@@ -12,3 +12,4 @@ Low battery indicator for JioFi JMR450
 - Enable Developer Mode by clicking the toggle switch next to Developer mode.
 - Click the LOAD UNPACKED button and select the extension directory.
 ![alt Screenshot](https://developer-chrome-com.imgix.net/image/BrQidfK9jaQyIHwdw91aVpkPiib2/iYdLKFsJ1KSVGLhbLRvS.png?auto=format&w=1600)
+- Done !!
