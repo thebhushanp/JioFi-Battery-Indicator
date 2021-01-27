@@ -1,0 +1,276 @@
+{
+	"$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+	"basics": {
+		"name": "Bhushan Patil",
+		"label": "Tech Lead",
+		"picture": "https://avatars.githubusercontent.com/u/6569492",
+		"email": "thebhushanj@gmail.com",
+		"phone": "8454818257",
+		"website": "https://bhushanpatil.netlify.app/",
+		"summary": "7 years of experience in development, extensively worked on integration of various Open-Source projects/frameworks. Good in troubleshooting and debugging. Have special interest in DevOps, Automation and IoT. Good understanding of Linux operating system & Web protocols.",
+		"location": {
+			"address": "Mumbai",
+			"postalCode": "410209 ",
+			"city": "Mumbai",
+			"countryCode": "IN",
+			"country": "India",
+			"region": "Mumbai"
+		},
+		"profiles": [{
+				"network": "LinkedIn",
+				"username": "thebhushanpatil",
+				"url": "https://www.linkedin.com/in/thebhushanpatil",
+				"x_icon": "fab fa-2x fa-linkedin"
+			},
+			{
+				"network": "GitHub",
+				"username": "thebhushanp",
+				"url": "https://github.com/thebhushanp",
+				"x_icon": "fab fa-2x fa-github"
+			}
+		]
+	},
+	"work": [{
+		"company": "Paramatrix Technologies",
+		"position": "Tech Lead",
+		"website": "https://paramatrix.com/",
+		"startDate": "2013-07-01",
+		"endDate": "",
+		"summary": "",
+		"highlights": [
+			"Managed Reliability & OpenAPI team.", "Acted as contact point between development team & functional team.","Scheduled and tracked development work", "Created automated CI/CD pipeline with Jenkins"
+		]
+	}, {
+		"company": "Paramatrix Technologies",
+		"position": "Senior Software Engineer",
+		"website": "",
+		"startDate": "2017-07-01",
+		"endDate": "2019-06-30",
+		"summary": "",
+		"highlights": [
+			"Developed core modules of EPPM & PACE", "Wrote programming specification" , "Did code review", "Took training session on new technologies", "Mentored juniors on required technologies"
+		]
+	}, {
+		"company": "Paramatrix Technologies",
+		"position": "Software Engineer",
+		"website": "",
+		"startDate": "2015-07-01",
+		"endDate": "2017-06-30",
+		"summary": "",
+		"highlights": [
+			"Development", "Writing FSD and programming specification", "Unit testing"
+		]
+	}, {
+		"company": "Paramatrix Technologies",
+		"position": "Associate Software Engineer",
+		"website": "",
+		"startDate": "2013-07-01",
+		"endDate": "2015-06-30",
+		"summary": "Started my first professional developer experience as a Java associate software engineer.",
+		"highlights": [
+			"Development in PACE(Java) & ZK framework according to programming specification", "Integration of REST API", "Developed generic UI components in ZK", "Deployoment on integration & staging server", "Bug fixing"
+		]
+	}],
+	"education": [{
+		"institution": "North Maharashtra University",
+		"area": "Information Technology",
+		"studyType": "Bachelor",
+		"startDate": "2007-06-01",
+		"endDate": "2012-06-01"
+	}],
+	"awards": [{
+		"title": "ParaStar",
+		"date": "2015-08-01",
+		"awarder": "Paramatrix",
+		"summary": "Employee of the quarter"
+	}, {
+		"title": "ParaTitan",
+		"date": "2017-08-01",
+		"awarder": "Paramatrix",
+		"summary": "Employee of the year"
+	}, {
+		"title": "ParaTitan",
+		"date": "2020-08-01",
+		"awarder": "Paramatrix",
+		"summary": "Employee of the year"
+	}],
+	"skills": [{
+			"name": "Web Development",
+			"level": "Master",
+			"keywords": [
+				"Java", "Spring", "Hibernate", "REST", "Microservices","OpenAPI","Junit", "tomcat"
+			]
+		},
+		{
+			"name": "Database",
+			"level": "Master",
+			"keywords": [
+				"Redis",
+				"PostgreSQL"
+			]
+		},
+		{
+			"name": "DevOps",
+			"level": "Master",
+			"keywords": [
+				"SVN", "Git", "Flyway", "Jenkins", "Docker", "Kubernetes", "Nexus", "Google Cloud", "AWS", "ELK","static code analysis"
+			]
+		}, {
+			"name": "OS",
+			"level": "Master",
+			"keywords": [
+				"Ubuntu", "Windows"
+			]
+		}, {
+			"name": "IoT",
+			"level": "Master",
+			"keywords": [
+				"Raspberry Pi", "Arduino", "ESP8266", "MQTT"
+			]
+		}
+	],
+	"languages": [{
+			"language": "English",
+			"fluency": "Fluent speaker"
+		},
+		{
+			"language": "Marathi",
+			"fluency": "Native speaker"
+		}
+	],
+	"interests": [{
+			"name": "Reading",
+			"keywords": [
+				"History",
+				"Technical blogs"
+			],
+			"x_icon": "fa fa-book"
+		},
+		{
+			"name": "Computer Games",
+			"x_icon": "fa-steam"
+		},
+		{
+			"name": "Cricket",
+			"x_icon": "fa-gamepad"
+		},
+		{
+			"name": "Piano",
+			"x_icon": "fa-music"
+		},
+		{
+			"name": "OpenSource"
+		}
+	],
+	"projects": [{
+		"name": "Reliability on Mobile",
+		"description": "One of the leading bank wanted to develop mobile app which will have certain reports for middle management. We developed webapplication with responsive UI which can be accessible from any device such Desktop/iPad/mobile.",
+		"keywords": ["REST", "Angular"],
+		"startDate": "2020-10-01",
+		"endDate": "",
+		"roles": ["Team Lead"],
+		"highlights": ["Handling the team of 5 developers", "Scheduling and tracking work of developers", "Gathering client's requirement and distributing tasks to developers", "Maintaining project documentation"]
+	}, {
+		"name": "DreamFolio (PoC)",
+		"description": "One of our client wanted to develop application regarding trading for educational purpose. This application was like a game in which user selects some stocks after opening of market and the one with highest gain for that day, wins the contest",
+		"keywords": ["Java", "Spring", "Kafka", "Spark", "Redis", "PostgreSQL", "Angular"],
+		"startDate": "2020-09-01",
+		"endDate": "2020-09-30",
+		"roles": ["Team Lead"],
+		"highlights": ["Designed database schema", "Designed the algorithm to generate  scorecard in near real time", "Managed the team of 2 junior developers"]
+	}, {
+		"name": "OpenAPI (Wrapper development)",
+		"startDate": "2020-05-01",
+		"endDate": "",
+		"description": "One of our client wanted to publish their API to their users and these users were using different language & tools. Hence, we wrote OpenAPI(v3) specification for these API and generated wrappers in Java, Python & C#. Using OpenAPITools, we were able to generate code as well as documentation for these API",
+		"keywords": ["Java", "Python", "OpenAPITools"],
+		"highlights": ["Gave initial training to junior developer on OpenAPI", "Designed OpenAPI schema", "Setup CI/CD in Jenkins", "Managed the team of 5 junior developers"],
+		"url":"https://github.com/osparamatrix/ks-orderapi-python"
+	}, {
+		"name": "Kinetk (PoC)",
+		"description": "In this project, we integrated USSD service with UPI for Indian market and for Africa market, we integrated USSD with Mojaloop framework. This project intent to make UPI available on feature phone and without internet.",
+		"keywords": ["NodeJS", "USSD API integration", "PostgreSQL", "Mojaloop", "PWA"],
+		"startDate": "2019-08-01",
+		"endDate": "2019-11-30",
+		"roles": ["Sr. Java Developer"],
+		"highlights": ["Designed database schema for the application", "Evaluation and RnD of various framework & tools", "Setup CI/CD in Jenkins", "Managed the team of 3 junior developers"]
+	}, {
+		"name": "iMoveHome",
+		"description": "This project related to property buying/selling & conveyancing platform in UK. It is micro-services architecture based web project, written in Java using Spring-boot framework. My role in this project is design several component such as messaging service & text search module. Also, I was responsible for making it run on Docker & Kubernetes.",
+		"keywords": ["Docker", "Kubernetes", "PostgreSQL text search", "workflow design"],
+		"startDate": "2019-03-01",
+		"endDate": "2019-07-30",
+		"roles": ["Sr. Java Developer"],
+		"highlights": ["Dockerized the application and hosted it in Kubernetes cluster", "Designed workflow module for conveyancing steps", "Developed text search module using PostgreSQL native functionality", "Setup CI/CD in Jenkins"],
+		"url": "https://www.imovehome.com/"
+	}, {
+		"name": "EPPM",
+		"description": "The EPPM is an enterprise framework that manages allocation and scheduling of works based on resource competency and resource availability, and is equipped with powerful tools and incisive reports for better management of projects and operations. I lead project for more than one year. Also, I developed calendar and scheduling module in this project",
+		"keywords": ["Java", "Spring", "Spring-cloud", "JUnit", "Hibernate", "PACE"],
+		"startDate": "2017-07-01",
+		"endDate": "2019-10-30",
+		"roles": ["Sr. Java Developer", "Team leader"],
+		"highlights": ["Wrote many core component such as calendar, scheduling policies & schedule compuation", "Designed and developed archival module with Docker", "Managed project of 10+ developers.", "Setup CI/CD pipeline in Jenkins which does building the code, deployed code on various environment & static code review"],
+		"type": "application",
+		"url": "https://eppmagic.com/"
+	}, {
+		"name": "SPS",
+		"description": "This project was developed for US client to smoothen their goods delivery system. I was responsible for designing its microservice architecture with Spring cloud(Zuul, Eureka, Config-server) tools. I also developed report module using BIRT tool & oAuth2 integration with AD.",
+		"keywords": ["Java", "Spring", "Spring-cloud", "JUnit", "Hibernate", "oAuth2"],
+		"startDate": "2016-09-01",
+		"endDate": "2017-06-30",
+		"roles": ["Sr. Java Developer"],
+		"highlights": ["Designed Micro-services", "Designed and generated PDF reports using BIRT", "Integrated oAuth2 with single-sign-on", "Mentored junior resources on Spring cloud stack", "Setup CI/CD pipeline in Jenkins"],
+		"type": "application"
+	}, {
+		"name": "WiKi Migration",
+		"description": "This project involved migration of legacy data from one wiki solution to another. I developed multi-threaded, fault tolerant api for migration.",
+		"keywords": ["Java", "H2", "Executor framework", "JUnit", "Pandoc"],
+		"startDate": "2016-07-01",
+		"endDate": "2016-09-30",
+		"roles": ["Java Developer"],
+		"type": "application",
+		"highlights": ["Wrote APIs to fetch raw data from legacy wiki", "Converted HTML to markdown using Pandoc", "Parallelized execution flow using executor framewrok to speed up migration of millions of records"]
+	}, {
+		"name": "KYC",
+		"description": "KYC is the mobile application developed for client of Paramatrix. It does varification for number documents such Aadhar, PAN card & driving licence.",
+		"keywords": ["Java", "REST", "Hibernate", "Tomcat", "OpenCV", "Tesseract OCR"],
+		"startDate": "2016-02-01",
+		"endDate": "2016-12-31",
+		"roles": ["Java Developer"],
+		"highlights": ["Did basic image processing using OpenCV", "Used Tesseract to do OCR on documents", "Integrated Aadhar and PAN APIs into application", "Wrote REST APIs which were consumed by Mobile App & WebApplication"],
+		"type": "application"
+	},{
+		"name": "ELK(Log aggregation)",
+		"description": "Various information security & ISO cerfication requires centralized logging of all critical inhouse application. We used ELK(Elasticsearch, Logstas & Kibana) stack to aggregated all logs and displayed on Kibana",
+		"keywords": ["Elasticsearch","Logstash", "Kibana", "Ubuntu"],
+		"startDate": "2016-07-01",
+		"endDate": "2016-09-30",
+		"roles": ["Java Developer"],
+		"highlights": ["Parsed many log patterns like log4j logs, syslogs, nginx and apache2", "Setup ELK stack on Ubuntu machine", "Configured Kibana to show required information in appropriate widgets", "Setup nginx reversed proxy for Kibana & added basic auth authentication", "Added CRON job to archive ES indecies older than 90 days"],
+		"type": "application"
+	},{
+		"name": "PACE",
+		"description": "PACE is the middleware framework developed by Paramatrix. It provides authentication, authorization, audit-trail, CRUD service out-of-box.",
+		"keywords": ["Java", "Hibernate", "Servlet", "Tomcat", "Redis", "PostgreSQL"],
+		"startDate": "2014-07-01",
+		"endDate": "2017-06-30",
+		"roles": ["Java Developer"],
+		"highlights": ["Wrote XA module in PACE for 2phase transcation", "Enhanced Redis service for cache & authorization purpose", "Added Websocket support", "Developed Captcha module", "Developed Redis based distributed entity-lock", "Distributed logging and tracing using Log4J & Redis", "Quartz Job scheduling"],
+		"type": "application"
+	}, {
+		"name": "PACEAdmin",
+		"description": "PACEadmin is the web console to manage pace framework. It is used to manage users, roles,commands and their mapping.",
+		"keywords": ["ZK", "Java", "PACE", "Tomcat"],
+		"startDate": "2013-07-01",
+		"endDate": "2015-05-31",
+		"roles": ["Jr. Java Developer"],
+		"type": "application",
+		"highlights": ["Created UI screen in ZK framework", "Developed various generic UI component", "Integrated APIs of PACE", "Bug fixing in PACE framework"]
+	}],
+	"meta": {
+		"canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+		"version": "v1.0.0",
+		"lastModified": "2017-12-24T15:53:00"
+	}
+}
